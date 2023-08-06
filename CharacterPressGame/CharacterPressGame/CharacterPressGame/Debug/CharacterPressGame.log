@@ -1,0 +1,9 @@
+﻿  CharacterPressGame.cpp
+C:\Users\HP\Downloads\CharacterPressGame\CharacterPressGame\CharacterPressGame\CharacterPressGame.cpp(55,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\Downloads\CharacterPressGame\CharacterPressGame\CharacterPressGame\CharacterPressGame.cpp(56,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\Downloads\CharacterPressGame\CharacterPressGame\CharacterPressGame\CharacterPressGame.cpp(57,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\Downloads\CharacterPressGame\CharacterPressGame\CharacterPressGame\CharacterPressGame.cpp(58,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\Downloads\CharacterPressGame\CharacterPressGame\CharacterPressGame\CharacterPressGame.cpp(115,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\Downloads\CharacterPressGame\CharacterPressGame\CharacterPressGame\CharacterPressGame.cpp(116,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\HP\Downloads\CharacterPressGame\CharacterPressGame\CharacterPressGame\CharacterPressGame.cpp(265,107): warning C4305: 'initializing': truncation from 'double' to 'float'
+  CharacterPressGame.vcxproj -> C:\Users\HP\Downloads\CharacterPressGame\CharacterPressGame\Debug\CharacterPressGame.exe
